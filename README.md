@@ -1,4 +1,4 @@
-Backend Developer in **Go** & **Python**. Central University student (B.S. in Mathematics and Computer Science, Software Engineering track, class of '29). 
+Backend Developer in **Go** & **Python**. Central University student (B.S. in Mathematics and Computer Science, Software Engineering track, class of '29).
 
 ---
 
@@ -16,6 +16,7 @@ Backend Developer in **Go** & **Python**. Central University student (B.S. in Ma
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 #### DBs & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -26,6 +27,19 @@ Backend Developer in **Go** & **Python**. Central University student (B.S. in Ma
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+
+---
+
+### Education
+
+**Central University** — B.S. in Mathematics and Computer Science, Software Engineering track, class of '29
+
+**Mathematical background:** Mathematical Analysis, Linear Algebra, DM
+
+**Relevant completed courses:**
+- **Industrial Development Basics**
+- **Go Development Basics**
+- **Python Development. Professional level**
 
 ---
 
