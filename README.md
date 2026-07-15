@@ -43,6 +43,8 @@ Backend Developer in **Go** & **Python**. Central University student (B.S. in Ma
 
 ---
 
-### Contacts:
+### Contacts & CV:
 * **Telegram:** [@refaxD](https://t.me/refaxD)
 * **Email:** poddubnyanton8@gmail.com
+
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://disk.yandex.ru/d/dzqUc1EW8bWezw)
