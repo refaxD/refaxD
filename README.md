@@ -121,7 +121,7 @@ Go (Fiber) workers stream-scan repositories for leaked secrets and talk to a Fas
 
 ---
 
-### Analytics and business analysis, intern level
+### Analytics and business analysis
 
 - **Data analysis.** SQL, Pandas and Matplotlib for exploring data and checking hypotheses. Four solved [analytics case studies](https://drive.google.com/drive/folders/17GCAiL4Y7YRD35BATDruhzj9E1nu0m_C?usp=sharing).
 - **Business analysis.** Gathering requirements and setting priorities (at Nikta AI I owned both), turning Q&A sessions with task owners into decisions, and reviewing competitor products, as in Veha.
