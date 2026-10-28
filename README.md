@@ -138,19 +138,6 @@ Go (Fiber) workers stream-scan repositories for leaked secrets and talk to a Fas
 
 ---
 
-### GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=refaxD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refaxD&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=refaxD&theme=tokyonight&hide_border=true" alt="Streak" />
-
-</div>
-
----
-
 ### Education
 
 Central University, B.S. in Mathematics and Computer Science, Software Engineering track, class of '29.
